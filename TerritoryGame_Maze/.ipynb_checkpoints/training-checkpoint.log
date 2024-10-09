@@ -1,0 +1,201 @@
+2024-08-27 18:11:58,374 - INFO - Starting training...
+2024-08-27 18:11:58,785 - INFO - Starting episode 1
+2024-08-27 18:12:04,605 - INFO - Episode 1 completed: 1,280.0,297.0,46,56
+2024-08-27 18:12:04,605 - INFO - Starting episode 2
+2024-08-27 18:12:10,101 - INFO - Episode 2 completed: 2,287.0,316.0,29,54
+2024-08-27 18:12:10,101 - INFO - Starting episode 3
+2024-08-27 18:12:15,642 - INFO - Episode 3 completed: 3,316.0,296.0,44,65
+2024-08-27 18:12:15,642 - INFO - Starting episode 4
+2024-08-27 18:12:21,107 - INFO - Episode 4 completed: 4,321.0,313.0,54,53
+2024-08-27 18:12:21,107 - INFO - Starting episode 5
+2024-08-27 18:12:26,516 - INFO - Episode 5 completed: 5,249.0,342.0,52,47
+2024-08-27 18:12:26,516 - INFO - Starting episode 6
+2024-08-27 18:12:31,928 - INFO - Episode 6 completed: 6,360.0,280.0,39,61
+2024-08-27 18:12:31,928 - INFO - Starting episode 7
+2024-08-27 18:12:37,325 - INFO - Episode 7 completed: 7,286.0,281.0,42,32
+2024-08-27 18:12:37,325 - INFO - Starting episode 8
+2024-08-27 18:12:42,715 - INFO - Episode 8 completed: 8,276.0,313.0,64,49
+2024-08-27 18:12:42,716 - INFO - Starting episode 9
+2024-08-27 18:12:48,106 - INFO - Episode 9 completed: 9,304.0,311.0,50,57
+2024-08-27 18:12:48,107 - INFO - Starting episode 10
+2024-08-27 18:12:53,497 - INFO - Episode 10 completed: 10,321.0,309.0,53,60
+2024-08-27 18:12:53,497 - INFO - Starting episode 11
+2024-08-27 18:12:58,909 - INFO - Episode 11 completed: 11,308.0,311.0,47,45
+2024-08-27 18:12:58,909 - INFO - Starting episode 12
+2024-08-27 18:13:04,338 - INFO - Episode 12 completed: 12,313.0,304.0,52,40
+2024-08-27 18:13:04,338 - INFO - Starting episode 13
+2024-08-27 18:13:09,764 - INFO - Episode 13 completed: 13,324.0,319.0,39,34
+2024-08-27 18:13:09,765 - INFO - Starting episode 14
+2024-08-27 18:13:15,206 - INFO - Episode 14 completed: 14,323.0,308.0,46,59
+2024-08-27 18:13:15,206 - INFO - Starting episode 15
+2024-08-27 18:13:20,627 - INFO - Episode 15 completed: 15,293.0,290.0,51,52
+2024-08-27 18:13:20,627 - INFO - Starting episode 16
+2024-08-27 18:13:26,028 - INFO - Episode 16 completed: 16,335.0,301.0,50,30
+2024-08-27 18:13:26,028 - INFO - Starting episode 17
+2024-08-27 18:13:31,428 - INFO - Episode 17 completed: 17,305.0,330.0,40,57
+2024-08-27 18:13:31,429 - INFO - Starting episode 18
+2024-08-27 18:13:36,826 - INFO - Episode 18 completed: 18,309.0,299.0,42,55
+2024-08-27 18:13:36,826 - INFO - Starting episode 19
+2024-08-27 18:13:42,231 - INFO - Episode 19 completed: 19,335.0,308.0,66,44
+2024-08-27 18:13:42,232 - INFO - Starting episode 20
+2024-08-27 18:13:47,635 - INFO - Episode 20 completed: 20,316.0,306.0,44,56
+2024-08-27 18:13:47,636 - INFO - Starting episode 21
+2024-08-27 18:13:53,021 - INFO - Episode 21 completed: 21,310.0,341.0,53,62
+2024-08-27 18:13:53,021 - INFO - Starting episode 22
+2024-08-27 18:13:58,420 - INFO - Episode 22 completed: 22,286.0,334.0,42,69
+2024-08-27 18:13:58,421 - INFO - Starting episode 23
+2024-08-27 18:14:03,802 - INFO - Episode 23 completed: 23,318.0,335.0,61,57
+2024-08-27 18:14:03,803 - INFO - Starting episode 24
+2024-08-27 18:14:09,217 - INFO - Episode 24 completed: 24,295.0,338.0,47,50
+2024-08-27 18:14:09,217 - INFO - Starting episode 25
+2024-08-27 18:14:14,640 - INFO - Episode 25 completed: 25,297.0,336.0,43,55
+2024-08-27 18:14:14,640 - INFO - Starting episode 26
+2024-08-27 18:14:20,057 - INFO - Episode 26 completed: 26,301.0,309.0,48,51
+2024-08-27 18:14:20,057 - INFO - Starting episode 27
+2024-08-27 18:14:25,467 - INFO - Episode 27 completed: 27,283.0,318.0,61,51
+2024-08-27 18:14:25,468 - INFO - Starting episode 28
+2024-08-27 18:14:30,930 - INFO - Episode 28 completed: 28,336.0,326.0,44,52
+2024-08-27 18:14:30,930 - INFO - Starting episode 29
+2024-08-27 18:14:36,336 - INFO - Episode 29 completed: 29,318.0,312.0,44,53
+2024-08-27 18:14:36,336 - INFO - Starting episode 30
+2024-08-27 18:14:41,760 - INFO - Episode 30 completed: 30,288.0,290.0,70,31
+2024-08-27 18:14:41,760 - INFO - Starting episode 31
+2024-08-27 18:14:47,158 - INFO - Episode 31 completed: 31,315.0,290.0,50,47
+2024-08-27 18:14:47,159 - INFO - Starting episode 32
+2024-08-27 18:14:52,547 - INFO - Episode 32 completed: 32,335.0,324.0,49,51
+2024-08-27 18:14:52,547 - INFO - Starting episode 33
+2024-08-27 18:14:57,936 - INFO - Episode 33 completed: 33,317.0,324.0,52,57
+2024-08-27 18:14:57,936 - INFO - Starting episode 34
+2024-08-27 18:15:03,324 - INFO - Episode 34 completed: 34,325.0,306.0,53,64
+2024-08-27 18:15:03,324 - INFO - Starting episode 35
+2024-08-27 18:15:08,712 - INFO - Episode 35 completed: 35,317.0,309.0,49,51
+2024-08-27 18:15:08,713 - INFO - Starting episode 36
+2024-08-27 18:15:14,125 - INFO - Episode 36 completed: 36,301.0,323.0,56,44
+2024-08-27 18:15:14,126 - INFO - Starting episode 37
+2024-08-27 18:15:19,530 - INFO - Episode 37 completed: 37,299.0,316.0,31,59
+2024-08-27 18:15:19,530 - INFO - Starting episode 38
+2024-08-27 18:15:24,939 - INFO - Episode 38 completed: 38,315.0,319.0,62,29
+2024-08-27 18:15:24,940 - INFO - Starting episode 39
+2024-08-27 18:15:30,371 - INFO - Episode 39 completed: 39,342.0,310.0,61,53
+2024-08-27 18:15:30,372 - INFO - Starting episode 40
+2024-08-27 18:15:35,772 - INFO - Episode 40 completed: 40,327.0,355.0,34,73
+2024-08-27 18:15:35,773 - INFO - Starting episode 41
+2024-08-27 18:15:41,176 - INFO - Episode 41 completed: 41,311.0,338.0,48,53
+2024-08-27 18:15:41,177 - INFO - Starting episode 42
+2024-08-27 18:15:46,586 - INFO - Episode 42 completed: 42,320.0,296.0,76,28
+2024-08-27 18:15:46,587 - INFO - Starting episode 43
+2024-08-27 18:15:51,977 - INFO - Episode 43 completed: 43,301.0,300.0,56,36
+2024-08-27 18:15:51,977 - INFO - Starting episode 44
+2024-08-27 18:15:57,375 - INFO - Episode 44 completed: 44,313.0,313.0,64,52
+2024-08-27 18:15:57,376 - INFO - Starting episode 45
+2024-08-27 18:16:02,777 - INFO - Episode 45 completed: 45,320.0,341.0,47,60
+2024-08-27 18:16:02,778 - INFO - Starting episode 46
+2024-08-27 18:16:08,171 - INFO - Episode 46 completed: 46,302.0,304.0,28,52
+2024-08-27 18:16:08,171 - INFO - Starting episode 47
+2024-08-27 18:16:13,564 - INFO - Episode 47 completed: 47,337.0,329.0,62,39
+2024-08-27 18:16:13,564 - INFO - Starting episode 48
+2024-08-27 18:16:18,952 - INFO - Episode 48 completed: 48,302.0,330.0,42,57
+2024-08-27 18:16:18,952 - INFO - Starting episode 49
+2024-08-27 18:16:24,356 - INFO - Episode 49 completed: 49,305.0,298.0,54,32
+2024-08-27 18:16:24,357 - INFO - Starting episode 50
+2024-08-27 18:16:29,784 - INFO - Episode 50 completed: 50,275.0,314.0,56,27
+2024-08-27 18:16:29,785 - INFO - Starting episode 51
+2024-08-27 18:16:35,185 - INFO - Episode 51 completed: 51,296.0,301.0,62,28
+2024-08-27 18:16:35,185 - INFO - Starting episode 52
+2024-08-27 18:16:40,587 - INFO - Episode 52 completed: 52,337.0,318.0,60,29
+2024-08-27 18:16:40,587 - INFO - Starting episode 53
+2024-08-27 18:16:45,983 - INFO - Episode 53 completed: 53,326.0,339.0,49,29
+2024-08-27 18:16:45,984 - INFO - Starting episode 54
+2024-08-27 18:16:51,392 - INFO - Episode 54 completed: 54,309.0,282.0,45,50
+2024-08-27 18:16:51,392 - INFO - Starting episode 55
+2024-08-27 18:16:56,779 - INFO - Episode 55 completed: 55,319.0,320.0,55,37
+2024-08-27 18:16:56,779 - INFO - Starting episode 56
+2024-08-27 18:17:02,207 - INFO - Episode 56 completed: 56,326.0,311.0,49,42
+2024-08-27 18:17:02,208 - INFO - Starting episode 57
+2024-08-27 18:17:07,608 - INFO - Episode 57 completed: 57,320.0,330.0,49,54
+2024-08-27 18:17:07,609 - INFO - Starting episode 58
+2024-08-27 18:17:13,025 - INFO - Episode 58 completed: 58,291.0,310.0,52,38
+2024-08-27 18:17:13,025 - INFO - Starting episode 59
+2024-08-27 18:17:18,403 - INFO - Episode 59 completed: 59,293.0,286.0,39,52
+2024-08-27 18:17:18,403 - INFO - Starting episode 60
+2024-08-27 18:17:23,791 - INFO - Episode 60 completed: 60,337.0,318.0,45,44
+2024-08-27 18:17:23,791 - INFO - Starting episode 61
+2024-08-27 18:17:29,216 - INFO - Episode 61 completed: 61,264.0,326.0,43,38
+2024-08-27 18:17:29,216 - INFO - Starting episode 62
+2024-08-27 18:17:34,631 - INFO - Episode 62 completed: 62,337.0,317.0,58,51
+2024-08-27 18:17:34,632 - INFO - Starting episode 63
+2024-08-27 18:17:40,047 - INFO - Episode 63 completed: 63,285.0,315.0,45,55
+2024-08-27 18:17:40,047 - INFO - Starting episode 64
+2024-08-27 18:17:45,467 - INFO - Episode 64 completed: 64,315.0,303.0,44,52
+2024-08-27 18:17:45,467 - INFO - Starting episode 65
+2024-08-27 18:17:50,873 - INFO - Episode 65 completed: 65,299.0,293.0,43,59
+2024-08-27 18:17:50,873 - INFO - Starting episode 66
+2024-08-27 18:17:56,272 - INFO - Episode 66 completed: 66,288.0,300.0,58,55
+2024-08-27 18:17:56,273 - INFO - Starting episode 67
+2024-08-27 18:18:01,674 - INFO - Episode 67 completed: 67,303.0,277.0,56,30
+2024-08-27 18:18:01,674 - INFO - Starting episode 68
+2024-08-27 18:18:07,084 - INFO - Episode 68 completed: 68,322.0,316.0,37,55
+2024-08-27 18:18:07,084 - INFO - Starting episode 69
+2024-08-27 18:18:12,496 - INFO - Episode 69 completed: 69,287.0,330.0,30,78
+2024-08-27 18:18:12,496 - INFO - Starting episode 70
+2024-08-27 18:18:17,889 - INFO - Episode 70 completed: 70,274.0,315.0,58,45
+2024-08-27 18:18:17,890 - INFO - Starting episode 71
+2024-08-27 18:18:23,274 - INFO - Episode 71 completed: 71,284.0,313.0,40,47
+2024-08-27 18:18:23,274 - INFO - Starting episode 72
+2024-08-27 18:18:28,665 - INFO - Episode 72 completed: 72,305.0,294.0,47,34
+2024-08-27 18:18:28,666 - INFO - Starting episode 73
+2024-08-27 18:18:34,048 - INFO - Episode 73 completed: 73,331.0,301.0,56,50
+2024-08-27 18:18:34,048 - INFO - Starting episode 74
+2024-08-27 18:18:39,442 - INFO - Episode 74 completed: 74,330.0,332.0,56,35
+2024-08-27 18:18:39,443 - INFO - Starting episode 75
+2024-08-27 18:18:44,852 - INFO - Episode 75 completed: 75,330.0,315.0,44,49
+2024-08-27 18:18:44,853 - INFO - Starting episode 76
+2024-08-27 18:18:50,258 - INFO - Episode 76 completed: 76,313.0,305.0,45,35
+2024-08-27 18:18:50,258 - INFO - Starting episode 77
+2024-08-27 18:18:55,656 - INFO - Episode 77 completed: 77,340.0,277.0,56,44
+2024-08-27 18:18:55,656 - INFO - Starting episode 78
+2024-08-27 18:19:01,058 - INFO - Episode 78 completed: 78,333.0,282.0,52,62
+2024-08-27 18:19:01,058 - INFO - Starting episode 79
+2024-08-27 18:19:06,473 - INFO - Episode 79 completed: 79,323.0,309.0,60,49
+2024-08-27 18:19:06,473 - INFO - Starting episode 80
+2024-08-27 18:19:11,894 - INFO - Episode 80 completed: 80,311.0,296.0,33,60
+2024-08-27 18:19:11,895 - INFO - Starting episode 81
+2024-08-27 18:19:17,308 - INFO - Episode 81 completed: 81,302.0,299.0,59,37
+2024-08-27 18:19:17,308 - INFO - Starting episode 82
+2024-08-27 18:19:22,714 - INFO - Episode 82 completed: 82,335.0,321.0,38,75
+2024-08-27 18:19:22,715 - INFO - Starting episode 83
+2024-08-27 18:19:28,135 - INFO - Episode 83 completed: 83,320.0,336.0,50,50
+2024-08-27 18:19:28,136 - INFO - Starting episode 84
+2024-08-27 18:19:33,553 - INFO - Episode 84 completed: 84,297.0,299.0,63,22
+2024-08-27 18:19:33,553 - INFO - Starting episode 85
+2024-08-27 18:19:38,917 - INFO - Episode 85 completed: 85,326.0,317.0,53,47
+2024-08-27 18:19:38,918 - INFO - Starting episode 86
+2024-08-27 18:19:44,294 - INFO - Episode 86 completed: 86,293.0,292.0,46,40
+2024-08-27 18:19:44,294 - INFO - Starting episode 87
+2024-08-27 18:19:49,682 - INFO - Episode 87 completed: 87,307.0,326.0,64,40
+2024-08-27 18:19:49,682 - INFO - Starting episode 88
+2024-08-27 18:19:55,084 - INFO - Episode 88 completed: 88,324.0,313.0,51,38
+2024-08-27 18:19:55,085 - INFO - Starting episode 89
+2024-08-27 18:20:00,492 - INFO - Episode 89 completed: 89,312.0,286.0,51,50
+2024-08-27 18:20:00,492 - INFO - Starting episode 90
+2024-08-27 18:20:05,912 - INFO - Episode 90 completed: 90,310.0,340.0,61,48
+2024-08-27 18:20:05,912 - INFO - Starting episode 91
+2024-08-27 18:20:11,337 - INFO - Episode 91 completed: 91,309.0,299.0,48,49
+2024-08-27 18:20:11,337 - INFO - Starting episode 92
+2024-08-27 18:20:16,778 - INFO - Episode 92 completed: 92,319.0,335.0,41,63
+2024-08-27 18:20:16,779 - INFO - Starting episode 93
+2024-08-27 18:20:22,189 - INFO - Episode 93 completed: 93,319.0,301.0,68,32
+2024-08-27 18:20:22,189 - INFO - Starting episode 94
+2024-08-27 18:20:27,604 - INFO - Episode 94 completed: 94,271.0,276.0,28,44
+2024-08-27 18:20:27,605 - INFO - Starting episode 95
+2024-08-27 18:20:33,020 - INFO - Episode 95 completed: 95,293.0,320.0,54,40
+2024-08-27 18:20:33,020 - INFO - Starting episode 96
+2024-08-27 18:20:38,422 - INFO - Episode 96 completed: 96,306.0,291.0,45,46
+2024-08-27 18:20:38,422 - INFO - Starting episode 97
+2024-08-27 18:20:43,820 - INFO - Episode 97 completed: 97,305.0,315.0,37,63
+2024-08-27 18:20:43,820 - INFO - Starting episode 98
+2024-08-27 18:20:49,222 - INFO - Episode 98 completed: 98,315.0,329.0,40,57
+2024-08-27 18:20:49,222 - INFO - Starting episode 99
+2024-08-27 18:20:54,608 - INFO - Episode 99 completed: 99,304.0,293.0,39,45
+2024-08-27 18:20:54,609 - INFO - Starting episode 100
+2024-08-27 18:21:00,020 - INFO - Episode 100 completed: 100,345.0,317.0,60,49
